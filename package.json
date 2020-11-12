@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ltopin/Javascript-Mocks/issues"
   },
-  "homepage": "https://github.com/ltopin/Javascript-Mocks#readme"
+  "homepage": "https://github.com/ltopin/Javascript-Mocks#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
