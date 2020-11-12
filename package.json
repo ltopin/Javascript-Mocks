@@ -1,0 +1,20 @@
+{
+  "name": "Javascript-Mocks",
+  "version": "1.0.0",
+  "description": "Javascript-Mocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltopin/Javascript-Mocks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltopin/Javascript-Mocks/issues"
+  },
+  "homepage": "https://github.com/ltopin/Javascript-Mocks#readme"
+}
